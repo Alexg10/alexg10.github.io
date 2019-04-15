@@ -1,5 +1,5 @@
-[
-    {
+{
+    "pedal1": {
         "id" : "1",
         "name" : "Boss OS-2",
         "details-name" : "OS-2",
@@ -15,7 +15,7 @@
                     OD-1X, inspirante et ultra-réactive, va défitivement changer votre vision des pédales d'overdrive.",
         "video-url" : "https://www.youtube.com/embed/poBffgsGgn4"
     },
-    {
+    "pedal2": {
         "id": "2",
         "name": "Boss OS-3",
         "details-name": "OS-3",
@@ -31,4 +31,4 @@
                 OD-1X, inspirante et ultra-réactive, va défitivement changer votre vision des pédales d'overdrive.",
     "video-url": "https://www.youtube.com/embed/poBffgsGgn4"
     }
-]
+}
