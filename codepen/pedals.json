@@ -1,0 +1,34 @@
+[
+    {
+        "id" : "1",
+        "name" : "Boss OS-2",
+        "details-name" : "OS-2",
+        "slider-img" : "./src/images/pedals/distorsion.png",
+        "effect" : "Overdrive/distorsion",
+        "style" : "distorsion",
+        "color" : "#ea5626",
+        "details-highline" : "UNE PÉDALE BOSS EN ÉDITION SPÉCIALE PROPOSANT DES TIMBRES DE QUALITÉ PREMIUM",
+        "details-description" : "La OD-1X propulse le fameux overdrive BOSS dans une nouvelle ère de sonorités, mettant à disposition des guitaristes
+                    exigeants une qualité de son jusqu'à présent inégalée. Cette pédale de nouvelle génération combine plus de 35 ans
+                    d'innovations en matière de design avec les technologies les plus avancées, vous procurant une expérience sonore
+                    totalement inédite, seulement possible grâce au légendaire savoir-faire de BOSS. Préparez-vous à être émerveillé : la
+                    OD-1X, inspirante et ultra-réactive, va défitivement changer votre vision des pédales d'overdrive.",
+        "video-url" : "https://www.youtube.com/embed/poBffgsGgn4"
+    },
+    {
+        "id": "2",
+        "name": "Boss OS-3",
+        "details-name": "OS-3",
+        "slider-img": "./src/images/pedals/distorsion.png",
+        "effect": "Overdrive/distorsion",
+        "style": "distorsionslkfjsmlkfjsmlkf",
+        "color": "#ea5626",
+        "details-highline": "UNE PÉDALE BOSS EN ÉDITION SPÉCIALE PROPOSANT DES TIMBRES DE QUALITÉ PREMIUM",
+        "details-description": "La OD-1X propulse le fameux overdrive BOSS dans une nouvelle ère de sonorités, mettant à disposition des guitaristes
+                exigeants une qualité de son jusqu'à présent inégalée. Cette pédale de nouvelle génération combine plus de 35 ans
+                d'innovations en matière de design avec les technologies les plus avancées, vous procurant une expérience sonore
+                totalement inédite, seulement possible grâce au légendaire savoir-faire de BOSS. Préparez-vous à être émerveillé : la
+                OD-1X, inspirante et ultra-réactive, va défitivement changer votre vision des pédales d'overdrive.",
+    "video-url": "https://www.youtube.com/embed/poBffgsGgn4"
+    }
+]
